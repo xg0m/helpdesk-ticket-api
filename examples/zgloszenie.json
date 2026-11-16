@@ -1,0 +1,7 @@
+{
+  "title": "Brak dostępu do systemu kadrowego",
+  "description": "Po zmianie hasła nie mogę zalogować się do systemu kadrowego. Komunikat: konto zablokowane.",
+  "category": "dostep",
+  "priority": "wysoki",
+  "reporter_email": "anna.nowak@example.edu.pl"
+}
